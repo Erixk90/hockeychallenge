@@ -1,1 +1,1 @@
-# hockeychallenge
+# Migthy Ducks Hockey League
